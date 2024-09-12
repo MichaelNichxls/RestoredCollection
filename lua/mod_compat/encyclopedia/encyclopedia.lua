@@ -104,7 +104,7 @@ Encyclopedia.AddItem({
 
 if Sewn_API then
 	Sewn_API:AddEncyclopediaUpgrade(
-		FamiliarVariant.MENORAH,
+		RestoredCollection.Enums.Familiars.MENORAH.Variant,
 		"Higher fire rate per flame",
 		"Higher fire rate per flame. You can keep firing even with no flames"
 	)
